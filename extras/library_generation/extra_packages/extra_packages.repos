@@ -3,3 +3,7 @@ repositories:
     type: git
     url: https://github.com/ros-controls/control_msgs
     version: foxy-devel
+  metsprite_msgs:
+    type: git
+    url: https://github.com/Menapia-tech/metsprite_msgs.git
+    version: main
